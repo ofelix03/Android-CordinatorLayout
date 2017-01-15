@@ -1,2 +1,2 @@
 # Android-CordinatorLayout
-Playing around the android  cordinator layout that comes with com.android.support:design
+Playing with the Android  CordinatorLayout that comes with com.android.support:design
