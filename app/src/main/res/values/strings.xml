@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CordinatorLayoutApp</string>
+    <string name="movie_overview">Overview</string>
+    <string name="movie_synopsis">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque dignissim tortor et placerat tincidunt. Curabitur vitae mi sed tortor mollis ultricies ut vel lacus. Pellentesque porta a neque ut commodo. Sed eget erat elit. Nullam eget purus tortor. Donec ut elementum risus. Donec eu lorem finibus, sodales nisi eget, luctus velit. Donec cursus, metus eget feugiat sagittis, dui massa faucibus magna, vulputate congue nulla ligula commodo erat. Ut at augue eros. Fusce lacus nulla, consectetur vitae mauris sed, dictum cursus ligula. Curabitur ultrices, leo in fringilla semper, diam ex posuere purus, nec congue erat lectus at enim. Cras auctor vitae lorem nec aliquam. Mauris sit amet libero vitae nunc facilisis scelerisque. Proin non hendrerit ante. Suspendisse eu lectus elit.</string>
+</resources>
