@@ -22,5 +22,6 @@ public class ExampleInstrumentedTest {
         Context appContext = InstrumentationRegistry.getTargetContext();
 
         assertEquals("com.felix.cordinatorlayoutapp.cordinatorlayoutapp", appContext.getPackageName());
+        //helllo how are you
     }
 }
